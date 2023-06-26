@@ -12,5 +12,5 @@ Kako pokrenuti zadacu 2 (udpklijent/udpserver):<br/>
     &nbsp;&nbsp;&nbsp;&nbsp; potrebne su tri datoteke: tcpklijent.py, tcpserver.py, datoteka.txt <br />
     &nbsp;&nbsp;&nbsp;&nbsp; u jednom terminalu pokrenuti python tcpserver.py <br />
     &nbsp;&nbsp;&nbsp;&nbsp; u drugom terminalu pokrenuti python tcpklijent.py localhost <br />
-    &nbsp;&nbsp;&nbsp;&nbsp; u terminalu gdje je pokrenut klijent unijeti ime datoteke (u mom slučaju datoteka.txt)
+    &nbsp;&nbsp;&nbsp;&nbsp; u terminalu gdje je pokrenut klijent unijeti ime datoteke (u mom slučaju datoteka.txt) <br />
     &nbsp;&nbsp;&nbsp;&nbsp; ako je program uspješan program će pročitati sadržaj navedene datoteke, ako ne baca grešku

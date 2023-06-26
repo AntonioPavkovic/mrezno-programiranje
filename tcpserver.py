@@ -20,7 +20,7 @@ def tcp_server(port):
             
             filename = client_socket.recv(4096).decode().strip()
             
-            if filename.lower() == 'kraj':
+            if filename.lower() == 'end':
                 break
             
             if '/' in filename or '\\' in filename:

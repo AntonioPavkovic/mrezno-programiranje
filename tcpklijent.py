@@ -27,7 +27,7 @@ def tcp_client(server_ip, port):
         print("The specified server IP address is not valid.", file=sys.stderr)
         sys.exit(1)
     except Exception as e:
-        print("Greška:", str(e), file=sys.stderr)
+        print("Error:", str(e), file=sys.stderr)
         sys.exit(1)
 
 if __name__ == '__main__':
